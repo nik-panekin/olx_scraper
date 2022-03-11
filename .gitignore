@@ -1,0 +1,10 @@
+__pycache__/
+_dev/
+img/
+logs/
+venv/
+*.bat
+*.csv
+*.json
+*.xlsx
+*.log
